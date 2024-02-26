@@ -28,5 +28,5 @@ The steps line of the project:
 ![HexaScan Control System Diagram](https://github.com/Muhyildiz/RoboHexa/assets/96660754/903fce0b-9ca5-4269-8033-fd94f4282ce0)
 
   
-- **LIDAR:** Integrated IMU6050 sensor ensures stability and adaptation to surface conditions.
-- **RF Control:** Includes a button for user interaction, enabling manual control or predefined actions.
+- **LIDAR:** Integrated the sensor to make mapping the environment.
+- **RF Control:** Controlling the robot remotely be self-designed controller.
