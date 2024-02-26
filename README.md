@@ -17,7 +17,7 @@ The steps line of the project:
 - **Mini Switch:** To get data when each leg touches the ground.
 
   
-## Components
+## Electrical 
 
 - **PCB**: Custom designed to manage wires 
 
