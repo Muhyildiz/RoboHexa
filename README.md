@@ -13,7 +13,7 @@ This repository contains the codebase for a hexapod robot designed for traversin
   
 ## Components
 
-- **PCB**: Custom designed to manage wires and power.
+- **PCB**: Custom designed to manage wires 
 
   
 ## Features
