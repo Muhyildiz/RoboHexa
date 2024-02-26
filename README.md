@@ -9,10 +9,13 @@ This repository contains the codebase for a hexapod robot designed for traversin
 - **STM32 Microcontroller:** Controls servo motors and processes sensor data.
 - **IMU6050 Sensor:** Provides orientation and acceleration data for balance control.
 - **Mini Switch:** To get data when each leg touches the ground.
+
   
 ## Components
-- PCB: Designed to 
 
+- **PCB**: Custom designed to manage wires and power.
+
+  
 ## Features
 
 - **PID:** Utilizes six legs for versatile movement on rough terrain.
