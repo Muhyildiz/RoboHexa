@@ -25,7 +25,8 @@ The steps line of the project:
 ## Features
 
 - **PID:** Utilizes six legs for versatile movement on rough terrain.
-  ![HexaScan Control System Diagram](https://github.com/Muhyildiz/RoboHexa/assets/96660754/a2bb363b-7799-41e6-9eec-f44f5a256592)
+![HexaScan Control System Diagram](https://github.com/Muhyildiz/RoboHexa/assets/96660754/903fce0b-9ca5-4269-8033-fd94f4282ce0)
+
   
 - **LIDAR:** Integrated IMU6050 sensor ensures stability and adaptation to surface conditions.
 - **RF Control:** Includes a button for user interaction, enabling manual control or predefined actions.
