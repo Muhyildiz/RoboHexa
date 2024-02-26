@@ -3,6 +3,10 @@ Inverse Kinematics code for a (3 DOF) single leg of the HEXAPOD Robot codes visu
 
 Inverse kinematics solution: 
 
+![IK_hexapod](https://github.com/Muhyildiz/RoboHexa/assets/111732669/077db2f9-abf7-4222-a461-3f97007f5518)
+
+
+
 
 Z variation from side view:
 
