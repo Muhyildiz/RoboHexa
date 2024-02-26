@@ -12,7 +12,7 @@ The steps line of the project:
 ## Components
 
 - **MG996R Servo Motors:** Actuates the six legs of the hexapod.
-- **STM32 Microcontroller:** Controls servo motors and processes sensor data.
+- **STM32 Microcontroller:** Controls servo motors by PWM signal and processes sensor data.
 - **IMU6050 Sensor:** Provides orientation and acceleration data for balance control.
 - **Mini Switch:** To get data when each leg touches the ground.
 
@@ -29,4 +29,4 @@ The steps line of the project:
 
   
 - **LIDAR:** Integrated the sensor to make mapping the environment.
-- **RF Control:** Controlling the robot remotely be self-designed controller.
+- **RF Control:** Controlling the robot remotely with a self-designed controller.
