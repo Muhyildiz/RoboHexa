@@ -20,3 +20,8 @@ Z variation from side view:
 X variation from side view:
 
 ![ezgif com-video-to-gif-converter (1)](https://github.com/Muhyildiz/RoboHexa/assets/111732669/bae09e8b-838e-40ce-a8f2-1ae57508e837)
+
+
+
+reference:
+https://www.degruyter.com/document/doi/10.1515/comp-2020-0189/html#j_comp-2020-0189_tab_002
