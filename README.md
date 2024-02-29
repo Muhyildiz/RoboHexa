@@ -19,7 +19,7 @@ The steps line of the project:
   
 ## Electrical 
 
-- **PCB**: Custom designed to manage wires 
+- **PCB**: Custom designed to manage wires.
 
   
 ## Features
