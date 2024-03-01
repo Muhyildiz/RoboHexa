@@ -8,4 +8,4 @@ DH Parameters Table
 
 
 The transition matrix calculation 
-![image](https://github.com/Muhyildiz/RoboHexa/assets/96660754/218ab143-017a-493e-8d47-72472205b878)
+![1](https://github.com/Muhyildiz/RoboHexa/assets/96660754/301b7bfd-1635-4b44-a8de-900a182256c9)
