@@ -15,7 +15,8 @@ Z variation from side view:
 
 X variation from side view:
 
-![ezgif com-video-to-gif-converter (1)](https://github.com/Muhyildiz/RoboHexa/assets/111732669/bae09e8b-838e-40ce-a8f2-1ae57508e837)
+![x variation](https://github.com/Muhyildiz/RoboHexa/assets/111732669/63a34d59-0528-4c19-9482-1db88fc08eca)
+
 
 
 
