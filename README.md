@@ -14,6 +14,7 @@ The steps line of the project:
 - **MG996R Servo Motors:** Actuates the six legs of the hexapod.
 - **STM32 Microcontroller:** Controls servo motors by PWM signal and processes sensor data.
 - **IMU6050 Sensor:** Provides orientation and acceleration data for balance control.
+- **NRF24L01 Transceiver Module:** Remotely controlling the Robot using NRF24L01.
 - **Mini Switch:** To get data when each leg touches the ground.
 
   
