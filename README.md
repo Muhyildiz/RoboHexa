@@ -20,7 +20,7 @@ The steps line of the project:
   
 ## Electrical 
 
-- **PCB**: The custom PCB was meticulously engineered to maximize power efficiency and optimize heat dissipation capabilities.
+- **PCB**: The custom PCB was meticulously engineered to maximize power efficiency and optimize heat dissipation capabilities. It also handles the connection of 18 PWM signals, SPI, and I2C communication, highlighting its advanced functionality in electronic systems.
 
 - <img src="https://github.com/Muhyildiz/RoboHexa/assets/155567113/37b90c39-395b-4c32-8b7a-d4c424fe0134" width="500" height="350" /> <img src="https://github.com/Muhyildiz/RoboHexa/assets/155567113/4f43e79e-ba78-46e7-97b1-2bbdc74572a6" width="500" height="350" />
 
