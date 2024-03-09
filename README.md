@@ -3,6 +3,7 @@
 Forward Kinematics of HexaPod
 
 DH Parameters Table
+
 ![image](https://github.com/Muhyildiz/RoboHexa/assets/96660754/2c80cb24-5b53-441b-9b3e-0e4bd57545e2)
 
 
