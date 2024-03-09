@@ -17,6 +17,8 @@ X variation from side view:
 
 ![x variation](https://github.com/Muhyildiz/RoboHexa/assets/111732669/63a34d59-0528-4c19-9482-1db88fc08eca)
 
+Inverse Calculation:
+![Forward and Inverse Calculations-3](https://github.com/Muhyildiz/RoboHexa/assets/96660754/69d09bd4-c0ee-4f2d-b665-19bd092417b9)
 
 
 
