@@ -25,9 +25,6 @@ The steps line of the project:
 
 - <img src="https://github.com/Muhyildiz/RoboHexa/assets/155567113/c14f24c9-7653-4df8-bcc6-7aafd2688536" width="500" height="350" /> <img src="https://github.com/Muhyildiz/RoboHexa/assets/155567113/7ab93820-57e4-4a7c-8d72-4899a8903242" width="500" height="350" />
 
-![file_2024-04-26_15 31 03](https://github.com/Muhyildiz/RoboHexa/assets/155567113/c14f24c9-7653-4df8-bcc6-7aafd2688536)
-
-![file_2024-04-26_15 31 44](https://github.com/Muhyildiz/RoboHexa/assets/155567113/7ab93820-57e4-4a7c-8d72-4899a8903242)
 
 
   
