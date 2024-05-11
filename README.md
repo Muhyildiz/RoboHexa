@@ -1,8 +1,6 @@
 # RoboHexa 🕷️
 
 This repository contains the codebase for a hexapod robot designed for traversing hard terrain.
-![HexaScan](https://github.com/Muhyildiz/RoboHexa/assets/96660754/79c3b4e5-5bf7-4a70-b193-3a2b2a3b2c7f)
-![WhatsApp Video 2024-05-11 at 18 36 59_bbd22e97](https://github.com/Muhyildiz/RoboHexa/assets/155567113/b8fb80c2-44ce-4c4d-97a2-2e806a03d603)
 
 ![VID-20240511-WA0005_1](https://github.com/Muhyildiz/RoboHexa/assets/155567113/dfd2762d-f673-4357-960f-891b1bb95ebf)
 
@@ -27,6 +25,9 @@ The steps line of the project:
 
 - <img src="https://github.com/Muhyildiz/RoboHexa/assets/155567113/37b90c39-395b-4c32-8b7a-d4c424fe0134" width="500" height="350" /> <img src="https://github.com/Muhyildiz/RoboHexa/assets/155567113/4f43e79e-ba78-46e7-97b1-2bbdc74572a6" width="500" height="350" />
 
+![file_2024-04-26_15 31 03](https://github.com/Muhyildiz/RoboHexa/assets/155567113/c14f24c9-7653-4df8-bcc6-7aafd2688536)
+
+![file_2024-04-26_15 31 44](https://github.com/Muhyildiz/RoboHexa/assets/155567113/7ab93820-57e4-4a7c-8d72-4899a8903242)
 
 
   
