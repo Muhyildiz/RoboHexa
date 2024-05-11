@@ -3,6 +3,10 @@
 This repository contains the codebase for a hexapod robot designed for traversing hard terrain.
 ![HexaScan](https://github.com/Muhyildiz/RoboHexa/assets/96660754/79c3b4e5-5bf7-4a70-b193-3a2b2a3b2c7f)
 
+
+https://github.com/Muhyildiz/RoboHexa/assets/155567113/4f452e06-b900-4987-87fe-c2ea5a9d49ab
+
+
 The steps line of the project:
 * Literature Research
 * Mechanical Design Building
