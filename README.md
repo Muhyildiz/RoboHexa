@@ -1,6 +1,6 @@
 # RoboHexa 🕷️
 
-This repository contains the codebase for a hexapod robot designed for traversing hard terrain.
+This repository contains the codebase for a hexapod robot designed for traversing hard terrain, including several branches for different features and optimizations.
 
 ![VID-20240511-WA0005_1](https://github.com/Muhyildiz/RoboHexa/assets/155567113/dfd2762d-f673-4357-960f-891b1bb95ebf)
 
