@@ -2,4 +2,5 @@ The robot's stability has been enhanced by implementing a PID controller, allowi
 
 Two controllers have been designed: one for roll correction and another for pitch correction. These controllers work in parallel, combining their efforts to maintain stability even on challenging landscapes.
 
-Here is the link to the final results: https://www.linkedin.com/posts/muhammedyildiz02_robotics-pid-control-ugcPost-7193879557135855616-XnvK
+**Here is the link to the final results:** 
+https://www.linkedin.com/posts/muhammedyildiz02_robotics-pid-control-ugcPost-7193879557135855616-XnvK
