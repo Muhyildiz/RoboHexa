@@ -42,3 +42,5 @@ The steps line of the project:
 
 
 ![Adaptive Behavioral Methods for a Hexapod Robot A Multidisciplinary Approach in Robotics and Artificial Intelligence (3)](https://github.com/Muhyildiz/RoboHexa/assets/96660754/4995fdb5-3b1c-4585-aa92-a35a1eb86b6e)
+
+https://docs.google.com/document/d/1WBuKsHOAhjg5SrKpRXST-Yu4l-IdOTvVHftBmCUvy34/edit?usp=sharing
